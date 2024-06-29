@@ -1,0 +1,33 @@
+$blue: #4361ee;
+
+.root {
+  display: flex;
+  margin-top: 10px;
+  padding-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 17px;
+}
+
+.avatar {
+  margin-right: 15px;
+}
+
+.form {
+  width: 100%;
+
+  button {
+    margin-top: 10px;
+  }
+}
+
+.answerFor {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.answerUser {
+  font-weight: 500;
+  font-size: 18px;
+}
+
